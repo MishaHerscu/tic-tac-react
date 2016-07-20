@@ -1,10 +1,9 @@
 import React from "react";
 
-
 export default class Gameboard extends React.Component {
 
   handleCellClick(event) {
-    if(!this.props.gameOver){
+    if(!this.props.gameOver && !this.props.boardVals[event.target.id.slice(-1)]){
       this.props.updateBoardVal(event);
     }
   }

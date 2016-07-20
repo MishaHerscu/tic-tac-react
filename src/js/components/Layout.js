@@ -82,8 +82,7 @@ export default class Layout extends React.Component {
   }
 
   updateBoardVal(event) {
-    let cellName = event.target.id;
-    let cellIndex = cellName.slice(-1);
+    let cellIndex = event.target.id.slice(-1);
     let newBoardVals = this.state.boardVals;
     newBoardVals[cellIndex] = this.state.turn;
     this.setState({boardVals: newBoardVals});
