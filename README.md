@@ -7,6 +7,7 @@
 * There is no API right now.
 * Potential extension: using the Game-Project API to store user sessions and account data
 * Potential extension: using the JS-Template to get a good Grunt file so that there will be a build for gh-pages and linting.
+* Potential extension: I used just the 1-basic-react repo linked below as starter code, I could try to use more advanced React e.g. Redux
 
 Key Sources
 * [Documentation](https://facebook.github.io/react/)
