@@ -17,8 +17,7 @@
 * [React Videos (first video)](https://www.youtube.com/watch?v=MhkGQAoc7bc)
 * [Repo referenced in Videos](https://github.com/learncodeacademy/react-js-tutorials)
 
-## Installation steps required:
-### (from video)
+## Installation steps required (from video):
 
 1. Fork starter code repo
 2. Clone
