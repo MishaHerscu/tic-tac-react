@@ -14,3 +14,12 @@ Key Sources
 * [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
 * [React Videos (first video)](https://www.youtube.com/watch?v=MhkGQAoc7bc)
 * [Repo referenced in Videos](https://github.com/learncodeacademy/react-js-tutorials)
+
+Installation steps required (also in video):
+1. Fork starter code repo
+2. Clone
+3. Run "npm install" in any repo you are going to develop
+4. Run "webpack"
+5. Run "webpack --watch" (to see changes)
+6. Run "npm run dev" - this should launch on localhost:8080
+7. If this doesn't work, watch the video and follow the additional instructions
