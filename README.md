@@ -26,3 +26,10 @@
 5. Run "webpack --watch" (to see changes)
 6. Run "npm run dev" - this should launch on localhost:8080
 7. If this doesn't work, watch the video and follow the additional instructions
+
+
+## Live website
+
+The site is more fully styled and functional run locally because the build is missing.
+
+That said, you can see the site live [here](https://mishaherscu.github.io/tic-tac-react/src/)
