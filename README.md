@@ -30,6 +30,4 @@
 
 ## Live website
 
-The site is more fully styled and functional run locally because the build is missing.
-
-That said, you can see the site live [here](https://mishaherscu.github.io/tic-tac-react/src/)
+The site is more fully styled and functional run locally because the build is missing. That said, you can see the site live [here](https://mishaherscu.github.io/tic-tac-react/src/).
